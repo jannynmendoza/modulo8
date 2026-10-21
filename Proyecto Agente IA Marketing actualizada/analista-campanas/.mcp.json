@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "google-mcp": {
+      "url": "https://g.mcp.openbsp.dev/mcp",
+      "headers": {
+        "Authorization": "Bearer gmc_f8a631674033183e828e5c10e414b413b17f358597ffb51f41f479bbf13a7f1e"
+      }
+    }
+  }
+}

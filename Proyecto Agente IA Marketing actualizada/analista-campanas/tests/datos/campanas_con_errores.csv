@@ -1,0 +1,6 @@
+campana,canal,fecha_inicio,fecha_fin,impresiones,clics,coste,conversiones
+Campaña_Valida,Google Ads,2026-09-01,2026-09-30,10000,300,150,15
+Clics_Mayor_Impresiones,Meta Ads,2026-09-01,2026-09-30,5000,6000,300,30
+Coste_Negativo,LinkedIn Ads,2026-09-01,2026-09-30,20000,100,-50,5
+Valor_Vacio,TikTok Ads,2026-09-01,2026-09-30,15000,,180,9
+Conversiones_Mayor_Clics,Google Ads,2026-09-01,2026-09-30,8000,100,50,150

@@ -1,0 +1,31 @@
+{
+  "allow": [
+    "Bash(python scripts/calcular_kpis.py:*)",
+    "Read(./input/**)",
+    "Read(./config/**)",
+    "Read(./memory/**)",
+    "Read(./tests/datos/**)",
+    "Read(./skills/**)",
+    "Write(./output/**)",
+    "Write(./memory/**)",
+    "mcp__google-mcp__list_authorized_files",
+    "mcp__google-mcp__get_spreadsheet",
+    "mcp__google-mcp__read_sheet",
+    "mcp__google-mcp__get_sheet_schema",
+    "mcp__google-mcp__describe_sheet"
+  ],
+  "deny": [
+    "Edit(./input/**)",
+    "Write(./input/**)",
+    "Delete(./input/**)",
+    "Read(./.env)",
+    "Read(./credenciales/**)",
+    "mcp__google-mcp__write_sheet",
+    "mcp__google-mcp__append_rows",
+    "mcp__google-mcp__create_spreadsheet",
+    "mcp__google-mcp__update_cells",
+    "mcp__google-mcp__delete_spreadsheet",
+    "mcp__google-mcp__batch_update",
+    "mcp__google-mcp__share_spreadsheet"
+  ]
+}

@@ -1,0 +1,11 @@
+# Secretos y credenciales
+.env
+credenciales/
+
+# Resultados generados (se conserva la carpeta)
+output/*
+!output/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
